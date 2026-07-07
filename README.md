@@ -1,2 +1,2 @@
 # fernando-martinez-intro
-ntro to Programming course with Code the Dream
+Intro to Programming course with Code the Dream
